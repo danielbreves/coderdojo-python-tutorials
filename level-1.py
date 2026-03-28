@@ -22,7 +22,7 @@ Let's do this by creating a variable called "life" and setting it to 3.
 # These are called comments and are just notes for us to read.
 
 # Step 4: Try changing print(life) to print("life") and run it again.
-# Notice how the output is different!
+# Notice how the output is different! In Python, any text inside single or double quotes is called a string.
 
 # Step 5: Now try changing it to print(blah) and run it again.
 # Notice the error message that appears!
