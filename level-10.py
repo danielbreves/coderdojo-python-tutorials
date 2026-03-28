@@ -3,7 +3,7 @@ Bonus level!
 
 You finished the tutorial! The game is complete, but there's so much more you can add.
 
-Copy your code from level 9 into this file, then try some of these ideas:
+Copy your completed code from level 9 into this file, then try some of these ideas:
 
 - Keep score: add a "wins" variable and count how many times the player wins.
 - Play again: when the player runs out of lives, ask if they want to play again.

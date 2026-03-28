@@ -1,5 +1,5 @@
 """
-Hello!
+Hello world!
 
 Welcome to the first level of this Python programming challenge.
 In this tutorial you will learn how to build a rock, paper, scissors game using Python!
@@ -27,5 +27,5 @@ Let's do this by creating a variable called "life" and setting it to 3.
 # Step 5: Now try changing it to print(blah) and run it again.
 # Notice the error message that appears!
 
-# When you're done, open level-2.py to continue!
+# Ready for more? Open level-2.py!
 

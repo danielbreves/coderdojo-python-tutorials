@@ -1,8 +1,8 @@
 """
-You made it to level 7!
+You're getting the hang of this! Level 7!
 
-Right now we have "rock", "paper", "scissors" written in two places:
-once for the player's input and once for the computer's choice.
+Programmers don't like to repeat themselves! But we have "rock", "paper", "scissors"
+written in two places: once for the player's input and once for the computer's choice.
 
 Let's save our options in a list variable so we only write them once!
 
@@ -41,4 +41,4 @@ while life > 0:
         life -= 1  # This is a shortcut for life = life - 1
         print("You have " + str(life) + " lives remaining.")  # str() turns a number into text
 
-# When you're done, open level-8.py to continue!
+# Keep it up! Open level-8.py!

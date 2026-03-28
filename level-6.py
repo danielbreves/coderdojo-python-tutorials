@@ -1,5 +1,5 @@
 """
-You made it to level 6!
+Level 6! Things are getting interesting!
 
 Right now the game only plays once. Let's use a "while" loop to keep playing
 until the player runs out of lives!
@@ -35,4 +35,4 @@ life = 3
         # Step 3: Let's tell the player how many lives they have left.
         # Write print("You have", life, "lives remaining.") below this line:
 
-# When you're done, open level-7.py to continue!
+# level-7.py is waiting for you!

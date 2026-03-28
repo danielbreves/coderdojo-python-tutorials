@@ -1,7 +1,7 @@
 """
-You made it to level 9 - the final level!
+The final level! You've come a long way!
 
-Our code is getting long! Let's clean it up by putting the winner check
+But our code is getting long! Let's clean it up by putting the winner check
 into its own function. A function is a reusable block of code that you
 can call by name.
 """
@@ -44,6 +44,6 @@ while life > 0:
     # Step 4: Check if the player lost. Write the following below this line:
     # if result == "You lose!":
     #     life -= 1
-    #     print(f"You have {life} lives remaining.")
+    #     print("You have " + str(life) + " lives remaining.")
 
 # When you're done, open level-10.py for some bonus ideas!

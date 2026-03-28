@@ -1,5 +1,5 @@
 """
-You made it to level 8!
+Nearly there! Level 8!
 
 What happens if the player types something silly like "banana"?
 Let's check if their choice is in our list, and skip the turn if it's not.
@@ -38,4 +38,4 @@ while life > 0:
         life -= 1  # This is a shortcut for life = life - 1
         print("You have " + str(life) + " lives remaining.")  # str() turns a number into text
 
-# When you're done, open level-9.py to continue!
+# One more to go! Open level-9.py!

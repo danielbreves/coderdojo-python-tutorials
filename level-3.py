@@ -1,8 +1,7 @@
 """
-You made it to level 3!
+You're on a roll! Level 3 awaits!
 
-Now we need the computer to pick its own hand.
-To do this, we'll use Python's "random" module.
+We need the computer to pick its own hand. To do this, we'll use Python's "random" module.
 
 A module is like a toolbox that someone else has already built for us.
 Python comes with lots of modules, and "random" is one that helps us pick things randomly.
@@ -26,5 +25,5 @@ For example: ["apple", "banana", "cherry"] is a list of three fruits.
 # Step 4: Print the computer's choice to see what it picked.
 # Write print("The computer chose " + computerHand) below this line:
 
-# When you're done, open level-4.py to continue!
+# Keep going! Open level-4.py!
 

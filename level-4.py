@@ -1,7 +1,7 @@
 """
-You made it to level 4!
+Level 4 already? Let's go!
 
-Now let's put it all together and figure out who wins!
+Let's put it all together and figure out who wins!
 We'll use "if" to compare the player's hand to the computer's hand.
 
 New things in this level:
@@ -35,5 +35,5 @@ print("The computer chose " + computerHand + "!")
 # Hint: paper beats rock, and scissors beats paper.
 # Write two more "if" checks below this line:
 
-# When you're done, open level-5.py to continue!
+# Nice work! Head to level-5.py!
 

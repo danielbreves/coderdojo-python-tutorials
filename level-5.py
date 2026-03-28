@@ -1,5 +1,5 @@
 """
-You made it to level 5!
+Level 5! Let's power up!
 
 In level 4 we used separate "if" checks for each winning combination.
 The problem is that Python checks every single "if" even when it already found a match!
@@ -42,4 +42,4 @@ print("The computer chose " + computerHand + "!")
 # else:
 #     print("You lose!")
 
-# When you're done, open level-6.py to continue!
+# Open level-6.py for the next challenge!
