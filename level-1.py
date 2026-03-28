@@ -16,6 +16,9 @@ Let's do this by creating a variable called "life" and setting it to 3.
 # Write print(life) below this line:
 
 
-# Step 3: Now try print("life") and print(blah) below this line.
+# Step 3: To run this file, type "python level-1.py" in the terminal at the bottom
+# of the screen and hit Enter.
+
+# Step 4: Now try print("life") and print(blah) below this line.
 # What happens? Can you spot the difference?
 

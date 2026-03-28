@@ -1,0 +1,16 @@
+{
+    "name": "Python Tutorial",
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "github.copilot.enable": {
+                    "*": false
+                },
+                "github.copilot.chat.agent.enabled": false
+            },
+            "extensions": [
+                "ms-python.python"
+            ]
+        }
+    }
+}
