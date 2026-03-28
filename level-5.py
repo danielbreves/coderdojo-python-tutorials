@@ -41,3 +41,5 @@ print("The computer chose " + computerHand + "!")
 # Write the following below this line:
 # else:
 #     print("You lose!")
+
+# When you're done, open level-6.py to continue!

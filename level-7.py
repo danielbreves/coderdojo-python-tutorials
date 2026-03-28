@@ -40,3 +40,5 @@ while life > 0:
         print("You lose!")
         life -= 1  # This is a shortcut for life = life - 1
         print("You have " + str(life) + " lives remaining.")  # str() turns a number into text
+
+# When you're done, open level-8.py to continue!

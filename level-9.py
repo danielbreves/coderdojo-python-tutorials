@@ -45,3 +45,5 @@ while life > 0:
     # if result == "You lose!":
     #     life -= 1
     #     print(f"You have {life} lives remaining.")
+
+# When you're done, open level-10.py for some bonus ideas!

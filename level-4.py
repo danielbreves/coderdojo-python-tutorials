@@ -35,3 +35,5 @@ print("The computer chose " + computerHand + "!")
 # Hint: paper beats rock, and scissors beats paper.
 # Write two more "if" checks below this line:
 
+# When you're done, open level-5.py to continue!
+

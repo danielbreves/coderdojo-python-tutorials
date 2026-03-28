@@ -11,3 +11,5 @@ Now let's capture the player's choice of rock, paper, or scissors into a variabl
 # Step 2: Then let's print the player's choice to make sure it's working.
 # Write print("The player chose " + playerHand) below this line:
 
+# When you're done, open level-3.py to continue!
+

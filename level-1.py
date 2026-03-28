@@ -20,5 +20,7 @@ Let's do this by creating a variable called "life" and setting it to 3.
 # of the screen and hit Enter. You should see the number 3 appear!
 
 # Step 4: Now try print("life") and print(blah) below this line.
-# What happens? Can you spot the difference?
+# Run the file again to see what happens. Can you spot the difference?
+
+# When you're done, open level-2.py to continue!
 

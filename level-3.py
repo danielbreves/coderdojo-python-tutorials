@@ -26,3 +26,5 @@ For example: ["apple", "banana", "cherry"] is a list of three fruits.
 # Step 4: Print the computer's choice to see what it picked.
 # Write print("The computer chose " + computerHand) below this line:
 
+# When you're done, open level-4.py to continue!
+
