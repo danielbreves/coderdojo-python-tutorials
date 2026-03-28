@@ -35,4 +35,3 @@ Replace the number with whichever level you're on.
 | 9 | Organizing code with functions |
 | 10 | Bonus: ideas to try on your own! |
 
-When you're done with level 9, check out `main.py` to see the finished game!
