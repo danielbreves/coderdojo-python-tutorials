@@ -7,6 +7,7 @@ In this tutorial you will learn how to build a rock, paper, scissors game using 
 As a first step we need to keep track of the player's lives.
 
 Let's do this by creating a variable called "life" and setting it to 3.
+A variable is a name that holds a value — like a labeled box you can store something to use later.
 """
 
 # Step 1: Write life = 3 below this line:
