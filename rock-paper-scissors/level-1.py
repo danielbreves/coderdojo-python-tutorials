@@ -17,7 +17,7 @@ A variable is a name that holds a value — like a labeled box you can store som
 # Write print(life) below this line:
 
 
-# Step 3: To run this file, type "python level-1.py" in the terminal at the bottom
+# Step 3: To run this file, type "python rock-paper-scissors/level-1.py" in the terminal at the bottom
 # of the screen and hit Enter. You should see the number 3 appear!
 # Notice that Python ignored the text between """ and the lines starting with #.
 # These are called comments and are just notes for us to read.

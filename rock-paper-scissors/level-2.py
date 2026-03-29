@@ -15,6 +15,6 @@ and gives it back to you.
 # Write print("The player chose " + player_hand) below this line:
 
 
-# Run the code with "python level-2.py", try typing a choice and hit enter!
+# Run the code with "python rock-paper-scissors/level-2.py", try typing a choice and hit enter!
 
 # On to level-3.py!

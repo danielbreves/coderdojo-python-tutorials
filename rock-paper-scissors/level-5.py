@@ -48,6 +48,6 @@ print("The computer chose " + computer_hand + "!")
 
 
 
-# Run the code with "python level-5.py" to see if it works!
+# Run the code with "python rock-paper-scissors/level-5.py" to see if it works!
 
 # Open level-6.py for the next challenge!
