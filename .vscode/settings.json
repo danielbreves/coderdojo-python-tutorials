@@ -8,7 +8,7 @@
     "editor.formatOnSave": false
   },
 
-  "workbench.colorTheme": "Default Light Modern",
+  "workbench.colorTheme": "Light Modern",
   "window.zoomLevel": 1,
   "editor.fontSize": 14,
   "editor.fontWeight": "500",
