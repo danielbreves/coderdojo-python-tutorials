@@ -1,5 +1,5 @@
 {
-  "python.defaultInterpreterPath": "/opt/homebrew/bin/python3",
+  "python.defaultInterpreterPath": "python3",
   "files.trimTrailingWhitespace": false,
   "editor.formatOnSave": false,
   "editor.hover.enabled": false,
