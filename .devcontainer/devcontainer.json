@@ -1,21 +1,22 @@
 {
-    "name": "Python Tutorial",
-    "image": "mcr.microsoft.com/devcontainers/python:3",
-    "customizations": {
-        "vscode": {
-            "settings": {
-                "chat.disableAIFeatures": true,
-                "chat.commandCenter.enabled": false,
-                "workbench.secondarySideBar.defaultVisibility": "hidden",
-                "github.copilot.enable": {
-                    "*": false
-                }
-            },
-            "extensions": [
-                "ms-python.python",
-                "-github.copilot",
-                "-github.copilot-chat"
-            ]
-        }
+  "name": "Python Tutorial",
+  "image": "mcr.microsoft.com/devcontainers/python:3",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "chat.disableAIFeatures": true,
+        "chat.commandCenter.enabled": false,
+        "workbench.secondarySideBar.defaultVisibility": "hidden",
+        "github.copilot.enable": {
+          "*": false
+        },
+        "extensions.ignoreRecommendations": true
+      },
+      "extensions": [
+        "ms-python.python",
+        "-github.copilot",
+        "-github.copilot-chat"
+      ]
     }
+  }
 }
