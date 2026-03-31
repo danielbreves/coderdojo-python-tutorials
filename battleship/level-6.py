@@ -90,7 +90,7 @@ class Player:
 #         players = [self.player1, self.player2]
 #         for player in players:
 #             self.place_ship(player)
-#             print("\n" * 50)
+#             print("\n" * 50) # \n is a newline character, so this prints 50 blank lines!
 #             input("Pass the device to the other player and press Enter.")
 
 
