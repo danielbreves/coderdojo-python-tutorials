@@ -58,4 +58,4 @@ while life > 0:
 
 # Run the code with "python rock-paper-scissors/level-9.py" to make sure everything works!
 
-# When you're done, open level-10.py for some bonus ideas!
+# When you're done, open level-10-bonus.py for some bonus ideas!

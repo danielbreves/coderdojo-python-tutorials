@@ -140,4 +140,4 @@ game.play()
 
 # Run the code with "python battleship/level-9.py" and play until someone wins!
 
-# When you're done, open level-10.py for some bonus ideas!
+# When you're done, open level-10-bonus.py for some bonus ideas!
